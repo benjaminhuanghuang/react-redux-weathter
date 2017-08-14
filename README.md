@@ -8,3 +8,14 @@
 ## Start up
   create-react-app .
   
+  webpack & npm run start:dev
+
+## Using 
+  React + Redux
+
+  react-sparklines
+  
+  weather api
+
+  google map api
+
